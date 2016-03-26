@@ -7,6 +7,6 @@ for (i=0; i<=10; i++){
     return x * i;
   }
   
-  document.write(l +" por "+ i + " es "+ multiplicar(l)+"<br>");
+  document.write(l +" por "+ i + " = "+ multiplicar(l)+"<br>");
   }
 
